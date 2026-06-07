@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "name": "test",
+    "description": "It a test Librairy!",
+    "version": "1.0.2",
+    "author": "Sad44587",
+    "licence": "MIT Licence"
+  },
+  "content": "local Test = {}; function Test.Hello() print("Hello world!") end; function Test.HelloName(name) print("Hello " .. name) end; return Test;"
+}
