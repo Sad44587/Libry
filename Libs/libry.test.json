@@ -6,5 +6,5 @@
     "author": "Sad44587",
     "licence": "MIT Licence"
   },
-  "content": "local Test = {}; function Test.Hello() print("Hello world!") end; function Test.HelloName(name) print("Hello " .. name) end; return Test;"
+  "content": "local Test = {}; function Test.Hello() print('Hello world!') end; function Test.HelloName(name) print('Hello ' .. name) end; return Test;"
 }
